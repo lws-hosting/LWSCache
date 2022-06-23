@@ -1,2 +1,25 @@
-# LWSCache
-Plugin Wordpress de gestion de cache
+# ![icone_facebook](https://mailing.lwspanel.com/fastest_cache.svg) LWSCache
+
+__LWSCache est un plugin Wordpress__ qui permet de gérer automatiquement la purge de votre site lorsque vous modifiez vos pages, post, messages, etc... Il accélère grandement la rapidité de votre site internet.  
+  
+   
+## I. Présentation du plugin
+  
+L’outil __LWSCache__ est un système conçu et développé par LWS permettant d’__optimiser les performances de chargement de votre site internet__ grâce à l’utilisation de mécanismes de cache avancé, configurés au niveau du serveur. L’outil utilise les technologies apportées par __NGINX__.    
+  
+NGINX est un serveur web orienté performance permettant de gérer beaucoup plus de requêtes qu'Apache. Avec les bonnes configurations mises en place, NGINX permet d’accueillir plus de requêtes sur votre site internet, et à la fois d’accélérer le temps de chargement de votre page tout en réduisant votre consommation CPU et mémoire.    
+  
+## II. Hébergements recommandés
+
+Hébergements mutualisés : [https://www.lws.fr/hebergement_web.php](https://www.lws.fr/hebergement_web.php)  
+Hébergements cPanel® : [https://www.lws.fr/hebergement-cpanel.php](https://www.lws.fr/hebergement-cpanel.php)  
+Hébergements Wordpress : [https://www.lws.fr/hebergement_wordpress.php](https://www.lws.fr/hebergement_wordpress.php)  
+Hébergements Wordpress WooCommerce : [https://www.lws.fr/hebergement-woocommerce.php](https://www.lws.fr/hebergement-woocommerce.php)  
+Serveurs VPS : [https://www.lws.fr/serveur-virtuel.php](https://www.lws.fr/serveur-virtuel.php)  
+Serveurs cPanel® : [https://www.lws.fr/serveur-cpanel.php](https://www.lws.fr/serveur-cpanel.php)  
+
+## III. Aides et tutoriels
+
+
+-----
+Vous pouvez suivre LWS sur  ![icone_facebook](https://mailing.lwspanel.com/facebook.svg) [Facebook](https://www.facebook.com/lws.fr) / ![icone_twitter](https://mailing.lwspanel.com/twitter.svg) [Twitter](https://twitter.com/Lwshosting) / ![icone_youtube](https://mailing.lwspanel.com/youtube.svg) [YouTube](https://www.youtube.com/user/lwshosting) / ![icone_instagram](https://mailing.lwspanel.com/instagram_3.svg) [Instagram](https://www.instagram.com/lws_lws.fr)
