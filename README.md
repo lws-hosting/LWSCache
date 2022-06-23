@@ -20,6 +20,11 @@ Serveurs cPanel® : [https://www.lws.fr/serveur-cpanel.php](https://www.lws.fr/s
 
 ## III. Aides et tutoriels
 
+Vous trouverez ci-dessous nos aides et tutoriels pour vous guider lors de l'installation ou l'utilisation du plugin :  
+
+Nos aides : [https://aide.lws.fr](https://aide.lws.fr)  
+Nos tutoriels : [https://tutoriels.lws.fr](https://tutoriels.lws.fr)  
+Notre blog : [https://blog.lws-hosting.com](https://blog.lws-hosting.com)
 
 -----
 Vous pouvez suivre LWS sur  ![icone_facebook](https://mailing.lwspanel.com/facebook.svg) [Facebook](https://www.facebook.com/lws.fr) / ![icone_twitter](https://mailing.lwspanel.com/twitter.svg) [Twitter](https://twitter.com/Lwshosting) / ![icone_youtube](https://mailing.lwspanel.com/youtube.svg) [YouTube](https://www.youtube.com/user/lwshosting) / ![icone_instagram](https://mailing.lwspanel.com/instagram_3.svg) [Instagram](https://www.instagram.com/lws_lws.fr)
